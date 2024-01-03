@@ -77,6 +77,11 @@ h6,
     font-weight: 600 !important;
 }
 
+.service-title
+{
+   width: 100%;
+   text-align: center; 
+}
 
 /*** Button ***/
 .btn {
