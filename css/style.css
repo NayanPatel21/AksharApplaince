@@ -89,6 +89,31 @@ h6,
     height: 30px;    
 }
 
+blockquote {
+    margin-top: 0.9375rem;
+    width: 100%;
+    padding: 0.9375rem;
+    border-left: 0.3125rem solid #0582ae;
+    background-color: rgba(0, 0, 0, 0.03);
+    margin: 0 0 1rem;
+    display: block;
+    /* margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px; */
+    
+   
+}
+
+ .one-three-bloclk
+{
+    justify-content: flex-start;
+    width: 100%;
+    margin-top: 0.3125rem;
+    display: flex;
+    flex-flow: row wrap;
+
+}
 /*** Button ***/
 .btn {
     font-family: 'Nunito', sans-serif;
