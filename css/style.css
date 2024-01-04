@@ -83,6 +83,12 @@ h6,
    text-align: center; 
 }
 
+.service-area
+{
+    width: 30px; 
+    height: 30px;    
+}
+
 /*** Button ***/
 .btn {
     font-family: 'Nunito', sans-serif;
