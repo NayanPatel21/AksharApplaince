@@ -107,11 +107,14 @@ blockquote {
 
  .one-three-bloclk
 {
-    justify-content: flex-start;
+    width: 100%;
+    margin-top: 0.3125rem;
+
+    /*  justify-content: flex-start;
     width: 100%;
     margin-top: 0.3125rem;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row wrap;*/
 
 }
 /*** Button ***/
