@@ -105,6 +105,16 @@ blockquote {
    
 }
 
+ .findbox-wrap {
+    width: 100%;
+    border: 0.3125rem solid #0582ae;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+  }
+
  .one-three-bloclk
 {
     width: 100%;
